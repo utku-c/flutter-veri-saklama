@@ -1,6 +1,6 @@
-# basit_veri_saklama
+# Basit Veri Saklama
 
-A new Flutter project.
+
 
 ## Getting Started
 
